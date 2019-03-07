@@ -1,0 +1,16 @@
+<html>
+<head>
+<style>
+p{
+background-color:light green
+}
+
+</style>
+</head>
+<body>
+<p>
+As a family owned and operated business we take great pride in what we do and what we do for our clients. Since 1989 we have bought, sold and managed property for both ourselves and our many customers. With over 700+ properties under management, we are a trusted and valued member of your real estate investment team.
+
+As a full service real estate company we assist buyers and sellers with a wide range of services. From listing your home for sale, buying a new home or looking for that perfect investment property, we have the experience and staff to make it a great experience.
+</p>
+</html>
